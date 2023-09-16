@@ -22,6 +22,6 @@
 
 
 ## Contact me :speech_balloon:
-<a href="https://www.w3schools.com">
+<a href="www.linkedin.com/in/alexi-reyes-45850524b">
     <img src="sources/linkedin-icon-logo-png-transparent-1-1024x1024.png" height="30px">
 </a>
