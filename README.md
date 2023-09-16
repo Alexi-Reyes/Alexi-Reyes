@@ -5,18 +5,20 @@
 
 ## My tools :wrench::
 
-<img src="sources/logo_html.png" height="50px">
-<img src="sources/css3-logo-png-transparent.png" height="50px">
-<img src="sources/js.jpg" height="40px">
-<img src="sources/Python_logo_icon.png" height="40px">
-<img src="sources/php-1-logo-png-transparent.png" height="40px">
-<img src="sources/1499794875MySQL-logo-png-transparent.png" height="40px">
-<img src="sources/git-icon-logo-png-transparent.png" height="40px">
-<img src="sources/figma-logo-2.png" height="40px">
+<div display-flex="flex">
+    <img src="sources/logo_html.png" height="50px">
+    <img src="sources/css3-logo-png-transparent.png" height="50px">
+    <img src="sources/js.jpg" height="40px">
+    <img src="sources/Python_logo_icon.png" height="40px">
+    <img src="sources/php-1-logo-png-transparent.png" height="40px">
+    <img src="sources/1499794875MySQL-logo-png-transparent.png" height="40px">
+    <img src="sources/git-icon-logo-png-transparent.png" height="40px">
+    <img src="sources/figma-logo-2.png" height="40px">
+</div>
 
 ## Github Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=monokai&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexi-Reyes&layout=compact&theme=monokai&hide_border=true)
 
 
 ## Contact me :speech_balloon:
